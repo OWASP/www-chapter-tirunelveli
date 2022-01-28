@@ -1,11 +1,11 @@
 ---
-title: Example
-layout:  null
+title: Events
+layout: null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Example
+## Events
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+The events of Owasp Tirunelveli is given below:
