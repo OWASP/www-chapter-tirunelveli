@@ -40,7 +40,10 @@ Call For Speakers is open - if you would like to present a talk on any topic rel
 
 Leaders contact :
 
- [Karuppasamy Karruppiah](mailto:karuppasamy.karuppiah@owasp.org)
+
+ [Karuppasamy Karruppiah](mailto:karuppasamy.karuppiah@owasp.org) 
+ 
+ 
  [Aravindhakumar Manimaran](mailto:aravindhakumar.manimaran@owasp.org)
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
