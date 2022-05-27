@@ -40,7 +40,9 @@ Call For Speakers is open - if you would like to present a talk on any topic rel
 
 Leaders contact :
 
+
  [Karuppasamy Karruppiah](mailto:karuppasamy.karuppiah@owasp.org) 
+ 
  
  [Aravindhakumar Manimaran](mailto:aravindhakumar.manimaran@owasp.org)
 
