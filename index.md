@@ -3,7 +3,8 @@ layout: col-sidebar
 title: OWASP Tirunelveli
 tags: 
 region: Asia
-meetup-group:
+meetup-group: owasp-tirunelveli-chapter
+
 ---
 
 
