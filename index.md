@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Tirunelveli
-tags: example-tag
+tags: 
 region: Asia
 meetup-group:
 ---
