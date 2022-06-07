@@ -65,7 +65,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
     - Presentation time required
  
 
-## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+## Next Meeting/Event 
 
 {% include chapter_events.html group=page.meetup-group %}
 
