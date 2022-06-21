@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Tirunelveli
-tags: OWASP-TNVL,Hacker_Tamizhan
+tags: owasp-tirunelvei
 region: Asia
 meetup-group: owasp-tirunelveli-chapter
 
