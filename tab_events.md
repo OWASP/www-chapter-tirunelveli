@@ -1,10 +1,16 @@
 ---
+layout: col-sidebar
+
+tags: owasp-tirunelvei
+region: Asia
+meetup-group: owasp-tirunelveli-chapter
+
 title: events
 displaytext: Events
 layout: null
 tab: true
 order: 2
-tags: owasp-tirunelveli
+
 
 ---
 
