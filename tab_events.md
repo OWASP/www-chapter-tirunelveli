@@ -16,6 +16,6 @@ tags: owasp-tirunelveli
 A webinar on **IOT-Security 101**
 
 
-<img src="assets/images/events/IOT-Security.jpg" width="720" height="1280" />
+<img src="assets/images/events/IOT-Security.jpg" width="360" height="640" />
 
 <hr>
