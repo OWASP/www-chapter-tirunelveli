@@ -1,20 +1,15 @@
 ---
-layout: col-sidebar
-
-tags: owasp-tirunelvei
-region: Asia
-meetup-group: owasp-tirunelveli-chapter
-
-title: old-events
-displaytext: Old-Events
+title: pastevents
+displaytext: Past Events
 layout: null
 tab: true
 order: 3
-
+tags: owasp-tirunelveli
 
 ---
 
-## Upcoming Events
+## Past Events
+
 <hr>
 
 **22 June 2022, 07:00 PM**
