@@ -1,0 +1,25 @@
+leaders:
+  - name: Karuppasamy Karruppiah
+    email: karuppasamy.karuppiah@owasp.org
+    github: karuppan-the-pentester
+  - name: Aravindhakumar Manimaran
+    email: aravindhakumar.manimaran@owasp.org
+    github: Aravindhakumar-M
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Tirunelveli
+  latitude: 8.8082342
+  longitude: 77.8114843
+meetup_group: owasp-tirunelveli-chapter
+name: OWASP Tirunelveli
+repositories:
+  - name: www-chapter-tirunelveli
+    url: https://github.com/OWASP/www-chapter-tirunelveli
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-tirunelvei
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-tirunelveli
