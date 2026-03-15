@@ -16,7 +16,7 @@ meetup-group: owasp-tirunelveli-chapter
 
 Welcome to the OWASP Tirunelveli chapter homepage.
 
-The Open Web Application Security Project (OWASP) is a worldwide nonprofit organization that is dedicated to improving the security of software. The main objective of OWASP is to provide insights and tools to help improve application security globally. Every three years, OWASP publishes list of top-ten security flaws obtained from industry data and independent research. These lists contain the most commonly seen, and most commonly exploited vulnerabilities.
+The Open Worldwide Application Security Project (OWASP) is a worldwide nonprofit organization that is dedicated to improving the security of software. The main objective of OWASP is to provide insights and tools to help improve application security globally. Every three years, OWASP publishes list of top-ten security flaws obtained from industry data and independent research. These lists contain the most commonly seen, and most commonly exploited vulnerabilities.
 
 OWASP Tirunelveli was founded in Jan 2022. We organise Meetups, Webinars and Conferences. All these events are open for everyone. We do webinars on topics related to Computer Science and share knowledge mainly on Cyber Security. Join our mission to make Cyber Space a Better Place!
 
